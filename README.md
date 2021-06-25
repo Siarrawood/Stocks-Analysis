@@ -266,10 +266,13 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 ```
 ### Run-time for Both Sets of Code and yearValue
-#### Original Code Run-time
-
-#### Refactored Code Run-time
-
+#### Original Code Run-times
+![](VBA_Challenge_2017_Original.png)
+![](VBA_Challenge_2018_Original.png)
+#### Refactored Code Run-timea
+![](VBA_Challenge_2017.png)
+![](VBA_Challenge_2018.png)
+Based on the run-times, the refactored code runs about 0.5 seconds faster, which indicates that it is more efficient.
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
 The main advantage of refactoring code is to make it quicker and more efficient. Disadvantages include potentially messing up the original code that works and even making it unusable. While refactoring can be very helpful, it is important to be careful and always save original code.
