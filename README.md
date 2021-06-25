@@ -269,7 +269,7 @@ End Sub
 #### Original Code Run-times
 ![](VBA_Challenge_2017_Original.png)
 ![](VBA_Challenge_2018_Original.png)
-#### Refactored Code Run-timea
+#### Refactored Code Run-times
 ![](VBA_Challenge_2017.png)
 ![](VBA_Challenge_2018.png)
 Based on the run-times, the refactored code runs about 0.5 seconds faster, which indicates that it is more efficient.
