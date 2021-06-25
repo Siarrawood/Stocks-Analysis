@@ -266,6 +266,9 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 ```
 ### Run-time for Both Sets of Code and yearValue
+#### Original Code Run-time
+
+#### Refactored Code Run-time
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
